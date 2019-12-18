@@ -1,6 +1,6 @@
 print("luis")
 
-ifs = open("text.txt",'r')
+ifs = open("Gettysburg.txt",'r')
 
 lines = ifs.readlines()
 
@@ -36,7 +36,7 @@ print (" nonalphanumeric : ", nonalpha)
 
 print("Luis")
 
-ifs = open("text.txt",'r')
+ifs = open("Gettysburg.txt",'r')
 
 lines = ifs.readlines()
 
